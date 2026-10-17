@@ -89,3 +89,18 @@ body{
     color: #020202;
     text-decoration: none;
 }
+.sobre-texto{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    gap: 15px;
+    justify-content: center;
+    margin-top: 20px;
+    text-align: center;
+    align-items: center;
+    border: 1px solid #020202;
+    margin: 20px;
+    background-color: #0000000D;
+    border-radius: 8px;
+    width: 700px;
+}
